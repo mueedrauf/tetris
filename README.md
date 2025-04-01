@@ -4,7 +4,6 @@
 This is a simple console-based Tetris game implemented in **C++** using Windows API functions. The game features a fully functional Tetris experience with piece rotation, movement, collision detection, line clearing, and scoring.
 
 ## Features
-- **7 Classic Tetris Pieces**: The game includes the standard Tetris blocks (I, O, T, S, Z, J, and L).
 - **Rotation Mechanics**: Pieces can be rotated using the rotation function.
 - **Collision Detection**: Ensures that blocks do not overlap or go outside the playing area.
 - **Line Clearing**: Full lines are removed, and the score is updated accordingly.

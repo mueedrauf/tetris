@@ -14,7 +14,10 @@ Edit
 
 ## 📺 Preview
 
-![Gameplay Preview](assets/tertris.png)
+<p align="center">
+  <img src="assets/tertris.png" alt="Gameplay Preview" width="500"/>
+</p>
+
 
 
 ## 🚀 Features

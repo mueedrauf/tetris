@@ -14,7 +14,7 @@ Edit
 
 ## 📺 Preview
 
-![Gameplay Preview](assets/tetris.png)
+![Gameplay Preview](assets/tertris.png)
 
 
 ## 🚀 Features

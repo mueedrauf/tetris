@@ -14,20 +14,8 @@ Edit
 
 ## 📺 Preview
 
-```
-⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-⬛        X         ⬛  
-⬛       XXX        ⬛  
-⬛                 ⬛  
-⬛   .........     ⬛  
-⬛   OOOOOOOOO     ⬛  
-⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-```
+![Gameplay Preview](assets/tetris.png)
 
-
-> 🎥 Real-time frame rendering using Windows Console API!
-
----
 
 ## 🚀 Features
 
